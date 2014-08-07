@@ -1,0 +1,54 @@
+@charset "utf-8";
+body{
+    margin:0; padding:0px; font-family:"宋体","黑体"; font-size:12px ;
+}
+#divid{width:800px; height:99px; margin:0px auto; padding:20px 0 0 5px;background-color: pink;}
+#head{
+    margin: 0 auto;width:960px;height: 150px;background-color: paleturquoise;
+}
+.red{
+    color: red;
+}
+.green{
+    color: green;
+}
+
+.bg{
+    background-color: blueviolet;
+}
+.fontSize{
+    font-size: 25px;
+}
+
+#squ{
+    width: 100px;height: 100px;background-color: red;
+}
+
+#head1 {
+    padding: 2px 5px;
+    width: 430px;
+    background-color: #ff1627;
+    line-height: 14px;
+}
+
+#head11 {
+    width: 800px; height: 10px;
+    background-color: aqua;
+
+}
+
+#head2 {
+    font-size: 50px; width: 430px; height: 210px;
+    background-color: rosybrown;
+    float: left;
+ }
+#head3 {
+    font-size: 50px; width: 510px; height: 310px;
+    background-color: royalblue;
+    float: right;
+ }
+#head4 {
+    font-size: 50px; width: 400px; height: 60px;
+    background-color: red;
+    clear: both;
+ }
